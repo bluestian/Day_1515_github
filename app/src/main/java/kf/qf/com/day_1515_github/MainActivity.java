@@ -9,6 +9,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         //不会玩啊，妈的！！！！！！！！操他妈的
+
+        //不会玩啊，妈的！！！！！！！！我来l
+        //不会玩啊，妈的！！！！！！！！操他妈的古古怪怪
+
     }
 }
